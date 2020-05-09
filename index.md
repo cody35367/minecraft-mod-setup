@@ -1,3 +1,3 @@
-## Minecraft Mod Setup
+# Minecraft Mod Setup
 
-### Using the Twitch app
+## Using the Twitch app
