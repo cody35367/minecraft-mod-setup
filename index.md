@@ -4,7 +4,7 @@
 - The Twitch app is installed and the user is logged into this app (I did not verify if the login is required). Can be downloaded [here](https://desktop.twitchsvc.net/installer/windows/TwitchSetup.exe) if needed.
 - A purchase of Minecraft and a valid Mojang/Minecraft login.
 
-Note: An existing installation of Minecraft (Jave Edition) will not be used in this setup and is not required. The Twitch app will download, install, and manage the customm Minecraft installation going forward. Most global configurations and saves can be found in the default minecraft home directory location (a.k.a. `%appdata%\.minecraft` on Windows).
+Note: An existing installation of Minecraft (Java Edition) will not be used in this setup and is not required. The Twitch app will download, install, and manage the custom Minecraft installation going forward. Most global configurations and saves can be found in the default Minecraft home directory location (a.k.a. `%appdata%\.minecraft` on Windows).
 
 ## Setup
 1. Open the Twitch app, select Mods -> Minecraft.
@@ -16,13 +16,13 @@ Note: An existing installation of Minecraft (Jave Edition) will not be used in t
 3. Open a Windows File Explorer window, navigate to `%userprofile%\Twitch\Minecraft\Install`, and run `minecraft.exe`. Below is an example path.
 
 ![](img/figure3.png)
-4. Wait for the Minecraft Updater to finish and present you with the below login screen. Login (if not alreaady) and then close the Laucher for now.
+4. Wait for the Minecraft Updater to finish and present you with the below login screen. Login (if not already) and then close the Launcher for now.
 
 ![](img/figure4.png)
-5. Go back to the Twitch app, select create profile, and fill out the below form and selct 'Create'.
+5. Go back to the Twitch app, select create profile, and fill out the below form and select 'Create'.
 - Note: 
   - Profile name can be whatever you want
-  - Version can be the whatever you want and usally the latest is okay
+  - Version can be whatever you want and usually the latest is okay
   - Do not modify the Modloader, this will change with the Minecraft version as required.
 
 ![](img/figure5.png)
